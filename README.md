@@ -78,9 +78,9 @@ Most churn occurs within the first 30 days.
 This indicates that while customer acquisition is effective, early-stage retention is weak.
 
 ## Recommendations
-Focus on retaining high-value customers through targeted engagement, rewards, and proactive support.
-Monitor purchase frequency and intervene early when customers begin to disengage.
-Improve onboarding and early customer experience to reduce churn within the first 30 days.
+1. Focus on retaining high-value customers through targeted engagement, rewards, and proactive support.
+2. Monitor purchase frequency and intervene early when customers begin to disengage.
+3. Improve onboarding and early customer experience to reduce churn within the first 30 days.
 
 ## Final Thought
 The role of data analysis extends beyond visualization.
