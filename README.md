@@ -50,6 +50,8 @@ SELECT *,
     END AS Segment
 FROM scored;
 
+```sql
+
 ## Key Insights
 Churn % vs Churn Risk %
 
