@@ -57,7 +57,7 @@ Churn % vs Churn Risk %
 
 These two values are almost identical, suggesting the business is at risk of losing as many customers as it has already lost if no action is taken.
 
-High-Value Customer Risk
+## High-Value Customer Risk
 
 The highest-value customer is currently classified as “At Risk.”
 This highlights a direct threat to revenue and indicates the potential for further financial loss.
