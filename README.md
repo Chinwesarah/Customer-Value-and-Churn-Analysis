@@ -1,7 +1,7 @@
 # Customer-Value-and-Churn-Analysis
 15% of customers contributed to a £4.39M revenue loss, accounting for approximately 41% of total revenue. This dashboard explains that this loss did not occur suddenly, it resulted from gradual customer disengagement over time. This highlights the importance on focusing on customer retention.
 
-## Process:
+## Process
 
 RFM analysis was conducted using an SQL query to create a customer segmentation table.
 This table was then combined with the main sales dataset in Power BI to develop the dashboard.
