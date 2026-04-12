@@ -9,7 +9,9 @@ This table was then combined with the main sales dataset in Power BI to develop 
 Customers were segmented based on:
 
 Recency (R): How recently a customer made a purchase
+
 Frequency (F): How often a customer makes purchases
+
 Monetary (M): How much a customer spends
 
 ```sql
